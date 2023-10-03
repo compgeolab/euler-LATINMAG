@@ -19,9 +19,9 @@
 # Paper title
 
 by
-Author 1,
-Author 2,
-and [Leonardo Uieda](https://leouieda.com)
+Gelson F. Souza-Junior,
+[Leonardo Uieda](https://leouieda.com),
+and Ricardo I. F. Trindade
 
 This repository contains the data and source code used to produce the results
 presented in:
