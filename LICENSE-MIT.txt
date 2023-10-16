@@ -1,4 +1,4 @@
-Copyright YEAR AUTHOR_NAMES
+Copyright 2023 Gelson Ferreira de Souza Junior, Leonardo Uieda, and Ricardo Ivan Ferreira da Trindade
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the “Software”), to deal in
